@@ -134,7 +134,7 @@ GameObject:
   - component: {fileID: 389552832}
   - component: {fileID: 389552833}
   - component: {fileID: 389552834}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: isaacBody
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -435,7 +435,8 @@ GameObject:
   - component: {fileID: 665392549}
   - component: {fileID: 665392553}
   - component: {fileID: 665392554}
-  m_Layer: 0
+  - component: {fileID: 665392555}
+  m_Layer: 7
   m_Name: Isaac
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -456,6 +457,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 5
   bodyAnimator: {fileID: 389552834}
+  cryPoint: {fileID: 852674915}
+  tearPrefab: {fileID: 2981619031390977392, guid: 3799672abb49d624c96a3cd01c72a2fe, type: 3}
+  cryForce: 20
 --- !u!50 &665392550
 Rigidbody2D:
   serializedVersion: 4
@@ -544,6 +548,36 @@ MonoBehaviour:
   heartContainers: []
   UICount: []
   itemCollision: {fileID: 0}
+--- !u!114 &665392555
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 665392548}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62899f850307741f2a39c98a8b639597, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Actions: {fileID: -944628639613478452, guid: 414f9f7ed15c2d44bbad673d6d3af5d4, type: 3}
+  m_NotificationBehavior: 0
+  m_UIInputModule: {fileID: 0}
+  m_DeviceLostEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  m_DeviceRegainedEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  m_ControlsChangedEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  m_ActionEvents: []
+  m_NeverAutoSwitchControlSchemes: 0
+  m_DefaultControlScheme: Keyboard
+  m_DefaultActionMap: Player
+  m_SplitScreenIndex: -1
+  m_Camera: {fileID: 0}
 --- !u!1 &777395347
 GameObject:
   m_ObjectHideFlags: 0
@@ -653,7 +687,7 @@ GameObject:
   m_Component:
   - component: {fileID: 852674915}
   - component: {fileID: 852674916}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: isaacHead
   m_TagString: Untagged
   m_Icon: {fileID: 0}
