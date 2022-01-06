@@ -1,0 +1,780 @@
+fileFormatVersion: 2
+guid: 926d857c6e6041048a21b9540351d9c9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4910088832049865962
+    second: MONSTER_parabite_399x95_0
+  - first:
+      213: 5332539946363129219
+    second: MONSTER_parabite_399x95_1
+  - first:
+      213: -744676307866931491
+    second: MONSTER_parabite_399x95_2
+  - first:
+      213: 8341088572487815506
+    second: MONSTER_parabite_399x95_3
+  - first:
+      213: 813671926863432900
+    second: MONSTER_parabite_399x95_4
+  - first:
+      213: 4979565417560749203
+    second: MONSTER_parabite_399x95_5
+  - first:
+      213: -9186308043559277095
+    second: MONSTER_parabite_399x95_6
+  - first:
+      213: -5290131811019874751
+    second: MONSTER_parabite_399x95_7
+  - first:
+      213: 4024291007778164362
+    second: MONSTER_parabite_399x95_8
+  - first:
+      213: -7540741813796920243
+    second: MONSTER_parabite_399x95_9
+  - first:
+      213: -6500872959174169187
+    second: MONSTER_parabite_399x95_10
+  - first:
+      213: -5237393933864281807
+    second: MONSTER_parabite_399x95_11
+  - first:
+      213: -6755985242110994711
+    second: MONSTER_parabite_399x95_12
+  - first:
+      213: 182886026310589936
+    second: MONSTER_parabite_399x95_13
+  - first:
+      213: 4623920150861519450
+    second: MONSTER_parabite_399x95_14
+  - first:
+      213: -7528834965959150560
+    second: MONSTER_parabite_399x95_15
+  - first:
+      213: 8770751206613643248
+    second: MONSTER_parabite_399x95_16
+  - first:
+      213: 5033978010027802101
+    second: MONSTER_parabite_399x95_17
+  - first:
+      213: 7520422663533063997
+    second: MONSTER_parabite_399x95_18
+  - first:
+      213: 9037130088006188610
+    second: MONSTER_parabite_399x95_19
+  - first:
+      213: -1062402633976050865
+    second: MONSTER_parabite_399x95_20
+  - first:
+      213: -5203689783446502156
+    second: MONSTER_parabite_399x95_21
+  - first:
+      213: 7870574528013675761
+    second: MONSTER_parabite_399x95_22
+  - first:
+      213: 4724860442327499125
+    second: MONSTER_parabite_399x95_23
+  - first:
+      213: -1679527204609525605
+    second: MONSTER_parabite_399x95_24
+  - first:
+      213: 1154999861916676997
+    second: MONSTER_parabite_399x95_25
+  - first:
+      213: -2177701687036462054
+    second: MONSTER_parabite_399x95_26
+  - first:
+      213: 663154425770601169
+    second: MONSTER_parabite_399x95_27
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MONSTER_parabite_399x95_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 26
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4e1f927c3242440800000000000000
+      internalID: 4910088832049865962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MONSTER_parabite_399x95_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 63
+        width: 26
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d0e8504dcf00a40800000000000000
+      internalID: 5332539946363129219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MONSTER_parabite_399x95_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 63
+        width: 25
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde21fce7d06aa5f0800000000000000
+      internalID: -744676307866931491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MONSTER_parabite_399x95_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 63
+        width: 26
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251d43b1ddf71c370800000000000000
+      internalID: 8341088572487815506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MONSTER_parabite_399x95_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 63
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc07647e4eba4b00800000000000000
+      internalID: 813671926863432900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MONSTER_parabite_399x95_5
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 63
+        width: 25
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39437894d58fa1540800000000000000
+      internalID: 4979565417560749203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MONSTER_parabite_399x95_6
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 63
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dde55a618da38080800000000000000
+      internalID: -9186308043559277095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MONSTER_parabite_399x95_7
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 63
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e9a2d652da596b0800000000000000
+      internalID: -5290131811019874751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MONSTER_parabite_399x95_8
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 63
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e8a67995729d730800000000000000
+      internalID: 4024291007778164362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MONSTER_parabite_399x95_9
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 63
+        width: 26
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4423bdd547e95790800000000000000
+      internalID: -7540741813796920243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MONSTER_parabite_399x95_10
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 63
+        width: 26
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d2b7a9c7248c5a0800000000000000
+      internalID: -6500872959174169187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MONSTER_parabite_399x95_11
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 63
+        width: 25
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139db3f47f90157b0800000000000000
+      internalID: -5237393933864281807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MONSTER_parabite_399x95_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 31
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e65130973bed32a0800000000000000
+      internalID: -6755985242110994711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MONSTER_parabite_399x95_13
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 31
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd10a83fddb98200800000000000000
+      internalID: 182886026310589936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MONSTER_parabite_399x95_14
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 31
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a1fdde0e67b2040800000000000000
+      internalID: 4623920150861519450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MONSTER_parabite_399x95_15
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 31
+        width: 24
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024f679ec74348790800000000000000
+      internalID: -7528834965959150560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MONSTER_parabite_399x95_16
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 31
+        width: 24
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ffe883c0c7f7b970800000000000000
+      internalID: 8770751206613643248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MONSTER_parabite_399x95_17
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 31
+        width: 24
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fdb5d634584cd540800000000000000
+      internalID: 5033978010027802101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MONSTER_parabite_399x95_18
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 31
+        width: 24
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f6fac4198ed5860800000000000000
+      internalID: 7520422663533063997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MONSTER_parabite_399x95_19
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 31
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e7a9c2fe55a6d70800000000000000
+      internalID: 9037130088006188610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MONSTER_parabite_399x95_20
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 31
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b0b69ee669141f0800000000000000
+      internalID: -1062402633976050865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MONSTER_parabite_399x95_21
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 31
+        width: 24
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4875856b7c8c7b0800000000000000
+      internalID: -5203689783446502156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MONSTER_parabite_399x95_22
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 31
+        width: 24
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc2e7845d5e93d60800000000000000
+      internalID: 7870574528013675761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MONSTER_parabite_399x95_23
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 31
+        width: 24
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571c936f983129140800000000000000
+      internalID: 4724860442327499125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MONSTER_parabite_399x95_24
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 15
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98f4aae7ee11b8e0800000000000000
+      internalID: -1679527204609525605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MONSTER_parabite_399x95_25
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 0
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5833b254142670010800000000000000
+      internalID: 1154999861916676997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MONSTER_parabite_399x95_26
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 0
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c3c658adf37c1e0800000000000000
+      internalID: -2177701687036462054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MONSTER_parabite_399x95_27
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 0
+        width: 15
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dae84bcf6ff33900800000000000000
+      internalID: 663154425770601169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
