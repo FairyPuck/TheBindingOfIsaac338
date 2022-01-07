@@ -14,7 +14,10 @@ public class Player : MonoBehaviour
 
     public Transform cryPoint;
     public GameObject tearPrefab;
-    public float cryForce = 20f;
+    public float cryForce = 0.1f;
+    private bool hurting = false;
+
+    public int hp = 3;
 
 
     void FixedUpdate()
@@ -82,6 +85,39 @@ public class Player : MonoBehaviour
                 rb.AddForce(cryPoint.right * cryForce, ForceMode2D.Impulse);
             }
             else rb.AddForce(-cryPoint.right * cryForce, ForceMode2D.Impulse);
+        }
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if(collision.gameObject.layer == 9)
+        {
+            if (hurting == false)
+            {
+                hurt();
+                hurting = true;
+            }
+        }
+        
+    }
+
+    private void OnTriggerExit2D(Collider2D collision)
+    {
+        if (collision.gameObject.layer == 9)
+        {
+            hurting = false;
+        }
+    }
+    void hurt()
+    {
+        hp--;
+        if(hp == 0)
+        {
+            Destroy(gameObject);
         }
     }
 }
