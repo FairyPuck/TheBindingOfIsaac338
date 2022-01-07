@@ -9,10 +9,6 @@ public class EnemySpawning : MonoBehaviour
     public GameObject wormPrefab;
     private bool alreadySpawn1 =  false;
     private bool alreadySpawn2 = false;
-    private bool alreadySpawn3 = false;
-    private bool alreadySpawn4 = false;
-    private bool alreadySpawn5 = false;
-    private bool alreadySpawn6 = false;
 
     public int enemyNumber;
 
@@ -39,9 +35,6 @@ public class EnemySpawning : MonoBehaviour
                     alreadySpawn1 = true;
                 }
                 break;
-            case "EnemySpawning2":
-                
-                break;
             case "EnemySpawning3":
                 if (alreadySpawn2 == false)
                 {
@@ -51,15 +44,6 @@ public class EnemySpawning : MonoBehaviour
 
                     alreadySpawn2 = true;
                 }
-                break;
-            case "EnemySpawning4":
-                Debug.Log(gameObject.name);
-                break;
-            case "EnemySpawning5":
-                Debug.Log(gameObject.name);
-                break;
-            case "EnemySpawning6":
-                Debug.Log(gameObject.name);
                 break;
         }
     }
