@@ -5,6 +5,7 @@ using UnityEngine;
 public class DoorChild : MonoBehaviour
 {
     public Transform playerTransform;
+    private bool open = true;
 
     private void Start()
     {
@@ -12,9 +13,8 @@ public class DoorChild : MonoBehaviour
     }
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.gameObject.layer == 7)
+        if (collision.gameObject.layer == 7 && open == true)
         {
-            print(transform.parent.gameObject.transform.position);
             playerTransform.position = transform.parent.gameObject.transform.position + new Vector3(-1, 0, 0);
         }
     }

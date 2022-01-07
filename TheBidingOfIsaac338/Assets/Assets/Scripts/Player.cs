@@ -4,7 +4,7 @@ using System.Numerics;
 using UnityEngine;
 using UnityEngine.InputSystem;
 using Vector2 = UnityEngine.Vector2;
-
+using UnityEngine.SceneManagement;
 
 public class Player : MonoBehaviour
 {
@@ -117,6 +117,7 @@ public class Player : MonoBehaviour
         hp--;
         if(hp == 0)
         {
+            SceneManager.LoadScene("MainMenu");
             Destroy(gameObject);
         }
     }

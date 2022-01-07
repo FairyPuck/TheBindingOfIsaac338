@@ -11,13 +11,12 @@ public class LittleFly : MonoBehaviour
     private Vector2 movement;
     private float moveSpeed = 2f;
 
-    private int hp = 5;
+    private int hp = 3;
 
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         playerTransform = FindObjectOfType<Player>().gameObject.transform;
-
     }
 
     void Update()

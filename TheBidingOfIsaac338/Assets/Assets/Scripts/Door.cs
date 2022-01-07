@@ -7,13 +7,15 @@ public class Door : MonoBehaviour
     public Transform playerTransform;
     private Transform child;
 
+    private bool open = true;
+
     private void Start()
     {
         playerTransform = FindObjectOfType<Player>().gameObject.transform;
     }
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if(collision.gameObject.layer == 7)
+        if(collision.gameObject.layer == 7 && open == true)
         {
             Transform[] allChildren = GetComponentsInChildren<Transform>();
             foreach (Transform child in allChildren)
