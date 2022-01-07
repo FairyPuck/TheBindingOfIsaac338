@@ -14,8 +14,13 @@ public class EnemySpawning : MonoBehaviour
     private bool alreadySpawn5 = false;
     private bool alreadySpawn6 = false;
 
-    private int enemyNumber;
+    public int enemyNumber;
 
+    private void Start()
+    {
+        
+
+    }
     private void OnTriggerEnter2D(Collider2D collision)
     {
         switch (gameObject.name)
@@ -41,8 +46,8 @@ public class EnemySpawning : MonoBehaviour
                 if (alreadySpawn2 == false)
                 {
                     enemyNumber = 2;
-                    GameObject worm1 = Instantiate(wormPrefab, gameObject.transform.position + new Vector3(-5, -1, 0), gameObject.transform.rotation);
-                    GameObject worm2 = Instantiate(wormPrefab, gameObject.transform.position + new Vector3(5, -1, 0), gameObject.transform.rotation);
+                    GameObject worm1 = Instantiate(wormPrefab, gameObject.transform.position + new Vector3(-3, 0, 0), gameObject.transform.rotation);
+                    GameObject worm2 = Instantiate(wormPrefab, gameObject.transform.position + new Vector3(3, 0, 0), gameObject.transform.rotation);
 
                     alreadySpawn2 = true;
                 }

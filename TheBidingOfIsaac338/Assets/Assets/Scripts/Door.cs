@@ -7,7 +7,7 @@ public class Door : MonoBehaviour
     public Transform playerTransform;
     private Transform child;
 
-    private bool open = true;
+    public bool open = true;
 
     private void Start()
     {
