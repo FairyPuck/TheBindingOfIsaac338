@@ -1,13 +1,13 @@
 fileFormatVersion: 2
-guid: a62a36e49bfbf9844b08e78b2168e00d
+guid: 58691a424324b8348b5ce8dfcd91b019
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4964122660808033755
-    second: Tears Sprite sheet 32x16_0
+      213: -7936415590652885502
+    second: Sprite Sheet Urn 32x32_0
   - first:
-      213: 250432270697848902
-    second: Tears Sprite sheet 32x16_1
+      213: -8030289147217292322
+    second: Sprite Sheet Urn 32x32_1
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -97,13 +97,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Tears Sprite sheet 32x16_0
+      name: Sprite Sheet Urn 32x32_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 16
-        height: 16
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -111,20 +111,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 52af115bdb4eb1bb0800000000000000
-      internalID: -4964122660808033755
+      spriteID: 2064349b1103cd190800000000000000
+      internalID: -7936415590652885502
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tears Sprite sheet 32x16_1
+      name: Sprite Sheet Urn 32x32_1
       rect:
         serializedVersion: 2
-        x: 16
+        x: 32
         y: 0
-        width: 16
-        height: 16
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -132,8 +132,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6406d37c2d6b97300800000000000000
-      internalID: 250432270697848902
+      spriteID: ed35070219eae8090800000000000000
+      internalID: -8030289147217292322
       vertices: []
       indices: 
       edges: []
